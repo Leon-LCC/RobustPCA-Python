@@ -16,7 +16,6 @@ If you're interested in the details of these applications, please refer to the [
 - Part 1: [Video Denoising](#part-1-video-denoising)
     - Extract the noise from a noisy video.
     - Separate the foreground (moving objects) and background (stationary objects) from a video. 
-<br />
 - Part 2: [Anomaly Detection](#part-2-anomaly-detection)
     - Use robust PCA to detect anomalies in a dataset of images.
 
