@@ -59,8 +59,8 @@ E.g., python Part1.py --i ./dataset/Part1/boat.mp4 \
 ```bash
 -- dataset
   |-- Part2
-     |-- Train_data.npy    'MNIST Images'
-     |-- Train_label.npy   'Labels (0: normal, 1: anomaly)'
+     |-- train_data.npy    'MNIST Images'
+     |-- train_label.npy   'Labels (0: normal, 1: anomaly)'
 ```
 - Usage
 ```bash
