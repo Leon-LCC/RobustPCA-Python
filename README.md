@@ -4,9 +4,9 @@
 Install numpy and you're good to go! The functions are implemented in [RobustPCA.py](./RobustPCA.py).
 ```python
 # Robust PCA via the Exact ALM Method
-Low_Rank_M, Sparse_M = RPCA(Data, Lambda, mu, rho):
+Low_Rank_M, Sparse_M = RPCA(Data, Lambda, mu, rho)
 # Robust PCA via the Inexact ALM Method
-Low_Rank_M, Sparse_M = RPCA_inexact(Data, Lambda, mu, rho):
+Low_Rank_M, Sparse_M = RPCA_inexact(Data, Lambda, mu, rho)
 ```
 
 
